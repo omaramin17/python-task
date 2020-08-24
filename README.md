@@ -1,3 +1,2 @@
-# python-task
-plz ignore 
-a shit for my college 
+ 
+# a shit for my college 
